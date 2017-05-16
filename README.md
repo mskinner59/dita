@@ -1,2 +1,0 @@
-# dita
-Experimental DITA Repositiory
